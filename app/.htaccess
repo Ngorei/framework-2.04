@@ -1,0 +1,16 @@
+SetEnvIf Authorization .+ HTTP_AUTHORIZATION=$0
+<IfModule mod_rewrite.c>
+  Options -Multiviews
+  RewriteEngine On
+  #RewriteBase /app
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule  ^(.+)$ index.php?url=$1 [QSA,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # Pastikan POST requests diizinkan
+    RewriteCond %{REQUEST_METHOD} ^(GET|POST|PUT|DELETE)$ [NC]
+    RewriteRule ^ index.php [QSA,L]
+</IfModule>

@@ -1,0 +1,16 @@
+{
+    "name": "database-tools",
+    "version": "1.0.0",
+    "development": "Tatiye",
+    "description": "Database tools configuration",
+    "MySQLPath": "C:\\Program Files\\MySQL\\MySQL Server 5.7\\bin",
+    "PHPPaths": [
+        "C:\\Tnserver\\bin\\php\\php.exe",
+        "C:\\xampp\\php\\php.exe",
+        "C:\\php\\php.exe",
+        "%ProgramFiles%\\PHP\\php.exe",
+        "%ProgramFiles(x86)%\\PHP\\php.exe"
+    ],
+    "author": "Tatiye",
+    "license": "MIT"
+}  

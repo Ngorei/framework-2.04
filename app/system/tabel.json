@@ -1,0 +1,16 @@
+{
+    "demo": [
+        {
+            "id": "int(11) NOT NULL",
+            "userid": "varchar(11) DEFAULT NULL",
+            "title": "varchar(11) DEFAULT NULL"
+        }
+    ],
+    "user": [
+        {
+            "id": "int(11) NOT NULL",
+            "userid": "varchar(11) DEFAULT NULL",
+            "title": "varchar(11) DEFAULT NULL"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+
+{
+  "properti":{
+    "version"       :"v4.0.5",
+    "sitename"      :"Ngorei",
+    "favicon"       :"logo/faviconb.png",
+    "icon"          :"logo/500pxb.png",
+    "title"         :"Ngorei - framework",
+    "description"   :"Berkreasi! Dengan fokus pada HTML, CSS, dan JavaScript standar, membangun website biasa, namun dengan hasil yang luar biasa."
+  },
+  "assets": {
+    "header": [
+      "css/dashforge.css",
+      "css/ngorei.css",
+      "js/jquery.js",
+      "module|js/ngorei-framework.js"
+    ],
+    "footer": [
+      "lib/crypto-js.min.js",
+      "js/jquery-ui.js", 
+      "module|App.js"
+    ]
+  }
+}

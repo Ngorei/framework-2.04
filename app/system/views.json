@@ -1,0 +1,28 @@
+{
+    "active_users": {
+        "query": "SELECT id, username, email, last_login FROM users WHERE status = 1",
+        "description": "Menampilkan daftar user yang aktif"
+    },
+    "product_stats": {
+        "query": "SELECT 
+            c.name as category,
+            COUNT(p.id) as total_products,
+            SUM(p.stock) as total_stock,
+            AVG(p.price) as avg_price
+        FROM products p 
+        JOIN categories c ON p.category_id = c.id 
+        GROUP BY c.id",
+        "description": "Statistik produk per kategori"
+    },
+    "recent_orders": {
+        "query": "SELECT 
+            o.id as order_id,
+            u.username,
+            o.total,
+            o.created_at
+        FROM orders o
+        JOIN users u ON o.user_id = u.id
+        WHERE o.created_at >= DATE_SUB(NOW(), INTERVAL 7 DAY)",
+        "description": "Pesanan dalam 7 hari terakhir"
+    }
+} 

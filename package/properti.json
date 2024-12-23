@@ -1,0 +1,1994 @@
+[
+    {
+        "title": "about",
+        "type": "html",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/about",
+        "modifiedPath": "doc\/-about",
+        "path": "doc\/about.html"
+    },
+    {
+        "title": "assets",
+        "type": "css",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/assets.css",
+        "modifiedPath": "doc\/assets.css",
+        "path": "doc\/assets.css"
+    },
+    {
+        "title": "assets",
+        "type": "js",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/assets.js",
+        "modifiedPath": "doc\/assets.js",
+        "path": "doc\/assets.js"
+    },
+    {
+        "title": "assets3",
+        "type": "js",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/assets3.js",
+        "modifiedPath": "doc\/assets3.js",
+        "path": "doc\/assets3.js"
+    },
+    {
+        "title": "assets4",
+        "type": "js",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/assets4.js",
+        "modifiedPath": "doc\/assets4.js",
+        "path": "doc\/assets4.js"
+    },
+    {
+        "title": "catatan",
+        "type": "html",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/catatan",
+        "modifiedPath": "doc\/-catatan",
+        "path": "doc\/catatan.html"
+    },
+    {
+        "title": "data",
+        "type": "html",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/data",
+        "modifiedPath": "doc\/-data",
+        "path": "doc\/data.html"
+    },
+    {
+        "title": "default",
+        "type": "html",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/default",
+        "modifiedPath": "doc\/-default",
+        "path": "doc\/default.html"
+    },
+    {
+        "title": "header",
+        "type": "html",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/header",
+        "modifiedPath": "doc\/-header",
+        "path": "doc\/header.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/index.html",
+        "originalPath": "doc\/index",
+        "modifiedPath": "doc\/-index",
+        "path": "doc\/index.html"
+    },
+    {
+        "title": "perkenalan",
+        "type": "html",
+        "index": "doc\/intro\/index.html",
+        "originalPath": "doc\/intro\/perkenalan",
+        "modifiedPath": "doc\/intro\/-perkenalan",
+        "path": "doc\/intro\/perkenalan.html"
+    },
+    {
+        "title": "perkenalan_",
+        "type": "html",
+        "index": "doc\/intro\/index.html",
+        "originalPath": "doc\/intro\/perkenalan_",
+        "modifiedPath": "doc\/intro\/-perkenalan_",
+        "path": "doc\/intro\/perkenalan_.html"
+    },
+    {
+        "title": "api",
+        "type": "html",
+        "index": "doc\/lingkungan\/brief\/index.html",
+        "originalPath": "doc\/lingkungan\/brief\/api",
+        "modifiedPath": "doc\/lingkungan\/brief\/-api",
+        "path": "doc\/lingkungan\/brief\/api.html"
+    },
+    {
+        "title": "filters",
+        "type": "html",
+        "index": "doc\/lingkungan\/brief\/index.html",
+        "originalPath": "doc\/lingkungan\/brief\/filters",
+        "modifiedPath": "doc\/lingkungan\/brief\/-filters",
+        "path": "doc\/lingkungan\/brief\/filters.html"
+    },
+    {
+        "title": "flatList",
+        "type": "html",
+        "index": "doc\/lingkungan\/brief\/index.html",
+        "originalPath": "doc\/lingkungan\/brief\/flatList",
+        "modifiedPath": "doc\/lingkungan\/brief\/-flatList",
+        "path": "doc\/lingkungan\/brief\/flatList.html"
+    },
+    {
+        "title": "flatListjoin",
+        "type": "html",
+        "index": "doc\/lingkungan\/brief\/index.html",
+        "originalPath": "doc\/lingkungan\/brief\/flatListjoin",
+        "modifiedPath": "doc\/lingkungan\/brief\/-flatListjoin",
+        "path": "doc\/lingkungan\/brief\/flatListjoin.html"
+    },
+    {
+        "title": "flatkey",
+        "type": "html",
+        "index": "doc\/lingkungan\/brief\/index.html",
+        "originalPath": "doc\/lingkungan\/brief\/flatkey",
+        "modifiedPath": "doc\/lingkungan\/brief\/-flatkey",
+        "path": "doc\/lingkungan\/brief\/flatkey.html"
+    },
+    {
+        "title": "brif",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/brif",
+        "modifiedPath": "doc\/lingkungan\/-brif",
+        "path": "doc\/lingkungan\/brif.html"
+    },
+    {
+        "title": "eksternal",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/eksternal",
+        "modifiedPath": "doc\/lingkungan\/-eksternal",
+        "path": "doc\/lingkungan\/eksternal.html"
+    },
+    {
+        "title": "images",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/images",
+        "modifiedPath": "doc\/lingkungan\/-images",
+        "path": "doc\/lingkungan\/images.html"
+    },
+    {
+        "title": "import",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/import",
+        "modifiedPath": "doc\/lingkungan\/-import",
+        "path": "doc\/lingkungan\/import.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/index",
+        "modifiedPath": "doc\/lingkungan\/-index",
+        "path": "doc\/lingkungan\/index.html"
+    },
+    {
+        "title": "intro",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/intro",
+        "modifiedPath": "doc\/lingkungan\/-intro",
+        "path": "doc\/lingkungan\/intro.html"
+    },
+    {
+        "title": "link",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/link",
+        "modifiedPath": "doc\/lingkungan\/-link",
+        "path": "doc\/lingkungan\/link.html"
+    },
+    {
+        "title": "link2",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/link2",
+        "modifiedPath": "doc\/lingkungan\/-link2",
+        "path": "doc\/lingkungan\/link2.html"
+    },
+    {
+        "title": "link2",
+        "type": "js",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/link2.js",
+        "modifiedPath": "doc\/lingkungan\/link2.js",
+        "path": "doc\/lingkungan\/link2.js"
+    },
+    {
+        "title": "metadata",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/metadata",
+        "modifiedPath": "doc\/lingkungan\/-metadata",
+        "path": "doc\/lingkungan\/metadata.html"
+    },
+    {
+        "title": "module",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/module",
+        "modifiedPath": "doc\/lingkungan\/-module",
+        "path": "doc\/lingkungan\/module.html"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/navigasi",
+        "modifiedPath": "doc\/lingkungan\/-navigasi",
+        "path": "doc\/lingkungan\/navigasi.html"
+    },
+    {
+        "title": "navigation",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/navigation",
+        "modifiedPath": "doc\/lingkungan\/-navigation",
+        "path": "doc\/lingkungan\/navigation.html"
+    },
+    {
+        "title": "perkenalan_",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/perkenalan_",
+        "modifiedPath": "doc\/lingkungan\/-perkenalan_",
+        "path": "doc\/lingkungan\/perkenalan_.html"
+    },
+    {
+        "title": "require",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/require",
+        "modifiedPath": "doc\/lingkungan\/-require",
+        "path": "doc\/lingkungan\/require.html"
+    },
+    {
+        "title": "routing",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/routing",
+        "modifiedPath": "doc\/lingkungan\/-routing",
+        "path": "doc\/lingkungan\/routing.html"
+    },
+    {
+        "title": "statements",
+        "type": "html",
+        "index": "doc\/lingkungan\/index.html",
+        "originalPath": "doc\/lingkungan\/statements",
+        "modifiedPath": "doc\/lingkungan\/-statements",
+        "path": "doc\/lingkungan\/statements.html"
+    },
+    {
+        "title": "area_chart",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/area_chart.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/area_chart.js",
+        "path": "doc\/mengembangkan\/chart\/area_chart.js"
+    },
+    {
+        "title": "bar_chart",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/bar_chart.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/bar_chart.js",
+        "path": "doc\/mengembangkan\/chart\/bar_chart.js"
+    },
+    {
+        "title": "bubble_chart",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/bubble_chart.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/bubble_chart.js",
+        "path": "doc\/mengembangkan\/chart\/bubble_chart.js"
+    },
+    {
+        "title": "chart_handler",
+        "type": "html",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/chart_handler",
+        "modifiedPath": "doc\/mengembangkan\/chart\/-chart_handler",
+        "path": "doc\/mengembangkan\/chart\/chart_handler.html"
+    },
+    {
+        "title": "chart_loader",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/chart_loader.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/chart_loader.js",
+        "path": "doc\/mengembangkan\/chart\/chart_loader.js"
+    },
+    {
+        "title": "doc",
+        "type": "html",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/doc",
+        "modifiedPath": "doc\/mengembangkan\/chart\/-doc",
+        "path": "doc\/mengembangkan\/chart\/doc.html"
+    },
+    {
+        "title": "documentation",
+        "type": "html",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/documentation",
+        "modifiedPath": "doc\/mengembangkan\/chart\/-documentation",
+        "path": "doc\/mengembangkan\/chart\/documentation.html"
+    },
+    {
+        "title": "line_chart",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/line_chart.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/line_chart.js",
+        "path": "doc\/mengembangkan\/chart\/line_chart.js"
+    },
+    {
+        "title": "multi_line_chart",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/multi_line_chart.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/multi_line_chart.js",
+        "path": "doc\/mengembangkan\/chart\/multi_line_chart.js"
+    },
+    {
+        "title": "pie_chart",
+        "type": "js",
+        "index": "doc\/mengembangkan\/chart\/index.html",
+        "originalPath": "doc\/mengembangkan\/chart\/pie_chart.js",
+        "modifiedPath": "doc\/mengembangkan\/chart\/pie_chart.js",
+        "path": "doc\/mengembangkan\/chart\/pie_chart.js"
+    },
+    {
+        "title": "NetworkDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/NetworkDev.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/NetworkDev.js",
+        "path": "doc\/mengembangkan\/dom\/NetworkDev.js"
+    },
+    {
+        "title": "NetworkDev1",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/NetworkDev1.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/NetworkDev1.js",
+        "path": "doc\/mengembangkan\/dom\/NetworkDev1.js"
+    },
+    {
+        "title": "Worker",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/Worker.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/Worker.js",
+        "path": "doc\/mengembangkan\/dom\/Worker.js"
+    },
+    {
+        "title": "demo",
+        "type": "html",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/demo",
+        "modifiedPath": "doc\/mengembangkan\/dom\/-demo",
+        "path": "doc\/mengembangkan\/dom\/demo.html"
+    },
+    {
+        "title": "exsampel",
+        "type": "html",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/exsampel",
+        "modifiedPath": "doc\/mengembangkan\/dom\/-exsampel",
+        "path": "doc\/mengembangkan\/dom\/exsampel.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/index",
+        "modifiedPath": "doc\/mengembangkan\/dom\/-index",
+        "path": "doc\/mengembangkan\/dom\/index.html"
+    },
+    {
+        "title": "networ",
+        "type": "html",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/networ",
+        "modifiedPath": "doc\/mengembangkan\/dom\/-networ",
+        "path": "doc\/mengembangkan\/dom\/networ.html"
+    },
+    {
+        "title": "spa",
+        "type": "html",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/spa",
+        "modifiedPath": "doc\/mengembangkan\/dom\/-spa",
+        "path": "doc\/mengembangkan\/dom\/spa.html"
+    },
+    {
+        "title": "spa",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/spa.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/spa.js",
+        "path": "doc\/mengembangkan\/dom\/spa.js"
+    },
+    {
+        "title": "spaDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/spaDev.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/spaDev.js",
+        "path": "doc\/mengembangkan\/dom\/spaDev.js"
+    },
+    {
+        "title": "view",
+        "type": "html",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/view",
+        "modifiedPath": "doc\/mengembangkan\/dom\/-view",
+        "path": "doc\/mengembangkan\/dom\/view.html"
+    },
+    {
+        "title": "work",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/work.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/work.js",
+        "path": "doc\/mengembangkan\/dom\/work.js"
+    },
+    {
+        "title": "workDom",
+        "type": "js",
+        "index": "doc\/mengembangkan\/dom\/index.html",
+        "originalPath": "doc\/mengembangkan\/dom\/workDom.js",
+        "modifiedPath": "doc\/mengembangkan\/dom\/workDom.js",
+        "path": "doc\/mengembangkan\/dom\/workDom.js"
+    },
+    {
+        "title": "assets",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/assets.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/assets.js",
+        "path": "doc\/mengembangkan\/from\/assets.js"
+    },
+    {
+        "title": "filebrowser",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/filebrowser",
+        "modifiedPath": "doc\/mengembangkan\/from\/-filebrowser",
+        "path": "doc\/mengembangkan\/from\/filebrowser.html"
+    },
+    {
+        "title": "filebrowser",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/filebrowser.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/filebrowser.js",
+        "path": "doc\/mengembangkan\/from\/filebrowser.js"
+    },
+    {
+        "title": "filebrowserDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/filebrowserDev.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/filebrowserDev.js",
+        "path": "doc\/mengembangkan\/from\/filebrowserDev.js"
+    },
+    {
+        "title": "from",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/from.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/from.js",
+        "path": "doc\/mengembangkan\/from\/from.js"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/index",
+        "modifiedPath": "doc\/mengembangkan\/from\/-index",
+        "path": "doc\/mengembangkan\/from\/index.html"
+    },
+    {
+        "title": "intro",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/intro",
+        "modifiedPath": "doc\/mengembangkan\/from\/-intro",
+        "path": "doc\/mengembangkan\/from\/intro.html"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/navigasi",
+        "modifiedPath": "doc\/mengembangkan\/from\/-navigasi",
+        "path": "doc\/mengembangkan\/from\/navigasi.html"
+    },
+    {
+        "title": "parameter",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/parameter",
+        "modifiedPath": "doc\/mengembangkan\/from\/-parameter",
+        "path": "doc\/mengembangkan\/from\/parameter.html"
+    },
+    {
+        "title": "standar",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/standar",
+        "modifiedPath": "doc\/mengembangkan\/from\/-standar",
+        "path": "doc\/mengembangkan\/from\/standar.html"
+    },
+    {
+        "title": "standar",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/standar.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/standar.js",
+        "path": "doc\/mengembangkan\/from\/standar.js"
+    },
+    {
+        "title": "standarDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/standarDev.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/standarDev.js",
+        "path": "doc\/mengembangkan\/from\/standarDev.js"
+    },
+    {
+        "title": "standarFrom",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/standarFrom.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/standarFrom.js",
+        "path": "doc\/mengembangkan\/from\/standarFrom.js"
+    },
+    {
+        "title": "uploades",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/uploades",
+        "modifiedPath": "doc\/mengembangkan\/from\/-uploades",
+        "path": "doc\/mengembangkan\/from\/uploades.html"
+    },
+    {
+        "title": "uploades",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/uploades.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/uploades.js",
+        "path": "doc\/mengembangkan\/from\/uploades.js"
+    },
+    {
+        "title": "wizard",
+        "type": "html",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/wizard",
+        "modifiedPath": "doc\/mengembangkan\/from\/-wizard",
+        "path": "doc\/mengembangkan\/from\/wizard.html"
+    },
+    {
+        "title": "wizard",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/wizard.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/wizard.js",
+        "path": "doc\/mengembangkan\/from\/wizard.js"
+    },
+    {
+        "title": "wizardDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/from\/index.html",
+        "originalPath": "doc\/mengembangkan\/from\/wizardDev.js",
+        "modifiedPath": "doc\/mengembangkan\/from\/wizardDev.js",
+        "path": "doc\/mengembangkan\/from\/wizardDev.js"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/mengembangkan\/index.html",
+        "originalPath": "doc\/mengembangkan\/index",
+        "modifiedPath": "doc\/mengembangkan\/-index",
+        "path": "doc\/mengembangkan\/index.html"
+    },
+    {
+        "title": "intro",
+        "type": "html",
+        "index": "doc\/mengembangkan\/index.html",
+        "originalPath": "doc\/mengembangkan\/intro",
+        "modifiedPath": "doc\/mengembangkan\/-intro",
+        "path": "doc\/mengembangkan\/intro.html"
+    },
+    {
+        "title": "content",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/content",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-content",
+        "path": "doc\/mengembangkan\/modal\/content.html"
+    },
+    {
+        "title": "content",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/content.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/content.js",
+        "path": "doc\/mengembangkan\/modal\/content.js"
+    },
+    {
+        "title": "contentDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/contentDev.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/contentDev.js",
+        "path": "doc\/mengembangkan\/modal\/contentDev.js"
+    },
+    {
+        "title": "data",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/data",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-data",
+        "path": "doc\/mengembangkan\/modal\/data.html"
+    },
+    {
+        "title": "development",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/development.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/development.js",
+        "path": "doc\/mengembangkan\/modal\/development.js"
+    },
+    {
+        "title": "exsampel",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/exsampel",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-exsampel",
+        "path": "doc\/mengembangkan\/modal\/exsampel.html"
+    },
+    {
+        "title": "exsampel",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/exsampel.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/exsampel.js",
+        "path": "doc\/mengembangkan\/modal\/exsampel.js"
+    },
+    {
+        "title": "from",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/from",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-from",
+        "path": "doc\/mengembangkan\/modal\/from.html"
+    },
+    {
+        "title": "from",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/from.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/from.js",
+        "path": "doc\/mengembangkan\/modal\/from.js"
+    },
+    {
+        "title": "fromDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/fromDev.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/fromDev.js",
+        "path": "doc\/mengembangkan\/modal\/fromDev.js"
+    },
+    {
+        "title": "from___",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/from___",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-from___",
+        "path": "doc\/mengembangkan\/modal\/from___.html"
+    },
+    {
+        "title": "header",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/header",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-header",
+        "path": "doc\/mengembangkan\/modal\/header.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/index",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-index",
+        "path": "doc\/mengembangkan\/modal\/index.html"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/navigasi",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-navigasi",
+        "path": "doc\/mengembangkan\/modal\/navigasi.html"
+    },
+    {
+        "title": "standar",
+        "type": "html",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/standar",
+        "modifiedPath": "doc\/mengembangkan\/modal\/-standar",
+        "path": "doc\/mengembangkan\/modal\/standar.html"
+    },
+    {
+        "title": "standar",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/standar.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/standar.js",
+        "path": "doc\/mengembangkan\/modal\/standar.js"
+    },
+    {
+        "title": "standarDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/modal\/index.html",
+        "originalPath": "doc\/mengembangkan\/modal\/standarDev.js",
+        "modifiedPath": "doc\/mengembangkan\/modal\/standarDev.js",
+        "path": "doc\/mengembangkan\/modal\/standarDev.js"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "doc\/mengembangkan\/index.html",
+        "originalPath": "doc\/mengembangkan\/navigasi",
+        "modifiedPath": "doc\/mengembangkan\/-navigasi",
+        "path": "doc\/mengembangkan\/navigasi.html"
+    },
+    {
+        "title": "brief",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/brief",
+        "modifiedPath": "doc\/mengembangkan\/network\/-brief",
+        "path": "doc\/mengembangkan\/network\/brief.html"
+    },
+    {
+        "title": "brief",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/brief.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/brief.js",
+        "path": "doc\/mengembangkan\/network\/brief.js"
+    },
+    {
+        "title": "briefexp",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/briefexp",
+        "modifiedPath": "doc\/mengembangkan\/network\/-briefexp",
+        "path": "doc\/mengembangkan\/network\/briefexp.html"
+    },
+    {
+        "title": "buckets",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/buckets",
+        "modifiedPath": "doc\/mengembangkan\/network\/-buckets",
+        "path": "doc\/mengembangkan\/network\/buckets.html"
+    },
+    {
+        "title": "buckets",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/buckets.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/buckets.js",
+        "path": "doc\/mengembangkan\/network\/buckets.js"
+    },
+    {
+        "title": "bucketsDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/bucketsDev.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/bucketsDev.js",
+        "path": "doc\/mengembangkan\/network\/bucketsDev.js"
+    },
+    {
+        "title": "crypto",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/crypto",
+        "modifiedPath": "doc\/mengembangkan\/network\/-crypto",
+        "path": "doc\/mengembangkan\/network\/crypto.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/index",
+        "modifiedPath": "doc\/mengembangkan\/network\/-index",
+        "path": "doc\/mengembangkan\/network\/index.html"
+    },
+    {
+        "title": "index",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/index.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/index.js",
+        "path": "doc\/mengembangkan\/network\/index.js"
+    },
+    {
+        "title": "index_carat",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/index_carat",
+        "modifiedPath": "doc\/mengembangkan\/network\/-index_carat",
+        "path": "doc\/mengembangkan\/network\/index_carat.html"
+    },
+    {
+        "title": "queue",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/queue",
+        "modifiedPath": "doc\/mengembangkan\/network\/-queue",
+        "path": "doc\/mengembangkan\/network\/queue.html"
+    },
+    {
+        "title": "queue",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/queue.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/queue.js",
+        "path": "doc\/mengembangkan\/network\/queue.js"
+    },
+    {
+        "title": "rtdb",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/rtdb",
+        "modifiedPath": "doc\/mengembangkan\/network\/-rtdb",
+        "path": "doc\/mengembangkan\/network\/rtdb.html"
+    },
+    {
+        "title": "rtdb",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/rtdb.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/rtdb.js",
+        "path": "doc\/mengembangkan\/network\/rtdb.js"
+    },
+    {
+        "title": "rtdbDev",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/rtdbDev",
+        "modifiedPath": "doc\/mengembangkan\/network\/-rtdbDev",
+        "path": "doc\/mengembangkan\/network\/rtdbDev.html"
+    },
+    {
+        "title": "rtdbDev",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/rtdbDev.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/rtdbDev.js",
+        "path": "doc\/mengembangkan\/network\/rtdbDev.js"
+    },
+    {
+        "title": "storage",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/storage",
+        "modifiedPath": "doc\/mengembangkan\/network\/-storage",
+        "path": "doc\/mengembangkan\/network\/storage.html"
+    },
+    {
+        "title": "storage__",
+        "type": "html",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/storage__",
+        "modifiedPath": "doc\/mengembangkan\/network\/-storage__",
+        "path": "doc\/mengembangkan\/network\/storage__.html"
+    },
+    {
+        "title": "work",
+        "type": "js",
+        "index": "doc\/mengembangkan\/network\/index.html",
+        "originalPath": "doc\/mengembangkan\/network\/work.js",
+        "modifiedPath": "doc\/mengembangkan\/network\/work.js",
+        "path": "doc\/mengembangkan\/network\/work.js"
+    },
+    {
+        "title": "appEdit",
+        "type": "js",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/appEdit.js",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/appEdit.js",
+        "path": "doc\/mengembangkan\/tabel\/appEdit.js"
+    },
+    {
+        "title": "appEditable",
+        "type": "js",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/appEditable.js",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/appEditable.js",
+        "path": "doc\/mengembangkan\/tabel\/appEditable.js"
+    },
+    {
+        "title": "appEditableFix",
+        "type": "js",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/appEditableFix.js",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/appEditableFix.js",
+        "path": "doc\/mengembangkan\/tabel\/appEditableFix.js"
+    },
+    {
+        "title": "doc",
+        "type": "html",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/doc",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/-doc",
+        "path": "doc\/mengembangkan\/tabel\/doc.html"
+    },
+    {
+        "title": "doc__",
+        "type": "html",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/doc__",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/-doc__",
+        "path": "doc\/mengembangkan\/tabel\/doc__.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/index",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/-index",
+        "path": "doc\/mengembangkan\/tabel\/index.html"
+    },
+    {
+        "title": "ngorei",
+        "type": "js",
+        "index": "doc\/mengembangkan\/tabel\/index.html",
+        "originalPath": "doc\/mengembangkan\/tabel\/ngorei.js",
+        "modifiedPath": "doc\/mengembangkan\/tabel\/ngorei.js",
+        "path": "doc\/mengembangkan\/tabel\/ngorei.js"
+    },
+    {
+        "title": "color",
+        "type": "html",
+        "index": "doc\/mengembangkan\/utility\/index.html",
+        "originalPath": "doc\/mengembangkan\/utility\/color",
+        "modifiedPath": "doc\/mengembangkan\/utility\/-color",
+        "path": "doc\/mengembangkan\/utility\/color.html"
+    },
+    {
+        "title": "dimensi",
+        "type": "html",
+        "index": "doc\/mengembangkan\/utility\/index.html",
+        "originalPath": "doc\/mengembangkan\/utility\/dimensi",
+        "modifiedPath": "doc\/mengembangkan\/utility\/-dimensi",
+        "path": "doc\/mengembangkan\/utility\/dimensi.html"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "doc\/mengembangkan\/utility\/index.html",
+        "originalPath": "doc\/mengembangkan\/utility\/navigasi",
+        "modifiedPath": "doc\/mengembangkan\/utility\/-navigasi",
+        "path": "doc\/mengembangkan\/utility\/navigasi.html"
+    },
+    {
+        "title": "pm",
+        "type": "html",
+        "index": "doc\/mengembangkan\/utility\/index.html",
+        "originalPath": "doc\/mengembangkan\/utility\/pm",
+        "modifiedPath": "doc\/mengembangkan\/utility\/-pm",
+        "path": "doc\/mengembangkan\/utility\/pm.html"
+    },
+    {
+        "title": "position",
+        "type": "html",
+        "index": "doc\/mengembangkan\/utility\/index.html",
+        "originalPath": "doc\/mengembangkan\/utility\/position",
+        "modifiedPath": "doc\/mengembangkan\/utility\/-position",
+        "path": "doc\/mengembangkan\/utility\/position.html"
+    },
+    {
+        "title": "text",
+        "type": "html",
+        "index": "doc\/mengembangkan\/utility\/index.html",
+        "originalPath": "doc\/mengembangkan\/utility\/text",
+        "modifiedPath": "doc\/mengembangkan\/utility\/-text",
+        "path": "doc\/mengembangkan\/utility\/text.html"
+    },
+    {
+        "title": "style",
+        "type": "css",
+        "index": "doc\/operations\/index.html",
+        "originalPath": "doc\/operations\/style.css",
+        "modifiedPath": "doc\/operations\/style.css",
+        "path": "doc\/operations\/style.css"
+    },
+    {
+        "title": "data",
+        "type": "html",
+        "index": "doc\/package\/brief\/index.html",
+        "originalPath": "doc\/package\/brief\/data",
+        "modifiedPath": "doc\/package\/brief\/-data",
+        "path": "doc\/package\/brief\/data.html"
+    },
+    {
+        "title": "datacursor",
+        "type": "html",
+        "index": "doc\/package\/brief\/index.html",
+        "originalPath": "doc\/package\/brief\/datacursor",
+        "modifiedPath": "doc\/package\/brief\/-datacursor",
+        "path": "doc\/package\/brief\/datacursor.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/brief\/index.html",
+        "originalPath": "doc\/package\/brief\/index",
+        "modifiedPath": "doc\/package\/brief\/-index",
+        "path": "doc\/package\/brief\/index.html"
+    },
+    {
+        "title": "millionrows",
+        "type": "html",
+        "index": "doc\/package\/brief\/index.html",
+        "originalPath": "doc\/package\/brief\/millionrows",
+        "modifiedPath": "doc\/package\/brief\/-millionrows",
+        "path": "doc\/package\/brief\/millionrows.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/builder\/index.html",
+        "originalPath": "doc\/package\/builder\/index",
+        "modifiedPath": "doc\/package\/builder\/-index",
+        "path": "doc\/package\/builder\/index.html"
+    },
+    {
+        "title": "join",
+        "type": "html",
+        "index": "doc\/package\/builder\/index.html",
+        "originalPath": "doc\/package\/builder\/join",
+        "modifiedPath": "doc\/package\/builder\/-join",
+        "path": "doc\/package\/builder\/join.html"
+    },
+    {
+        "title": "operation",
+        "type": "html",
+        "index": "doc\/package\/builder\/index.html",
+        "originalPath": "doc\/package\/builder\/operation",
+        "modifiedPath": "doc\/package\/builder\/-operation",
+        "path": "doc\/package\/builder\/operation.html"
+    },
+    {
+        "title": "query",
+        "type": "html",
+        "index": "doc\/package\/builder\/index.html",
+        "originalPath": "doc\/package\/builder\/query",
+        "modifiedPath": "doc\/package\/builder\/-query",
+        "path": "doc\/package\/builder\/query.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/flot\/index.html",
+        "originalPath": "doc\/package\/flot\/index",
+        "modifiedPath": "doc\/package\/flot\/-index",
+        "path": "doc\/package\/flot\/index.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/index.html",
+        "originalPath": "doc\/package\/index",
+        "modifiedPath": "doc\/package\/-index",
+        "path": "doc\/package\/index.html"
+    },
+    {
+        "title": "index___",
+        "type": "html",
+        "index": "doc\/package\/index.html",
+        "originalPath": "doc\/package\/index___",
+        "modifiedPath": "doc\/package\/-index___",
+        "path": "doc\/package\/index___.html"
+    },
+    {
+        "title": "intro",
+        "type": "html",
+        "index": "doc\/package\/index.html",
+        "originalPath": "doc\/package\/intro",
+        "modifiedPath": "doc\/package\/-intro",
+        "path": "doc\/package\/intro.html"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "doc\/package\/index.html",
+        "originalPath": "doc\/package\/navigasi",
+        "modifiedPath": "doc\/package\/-navigasi",
+        "path": "doc\/package\/navigasi.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/index",
+        "modifiedPath": "doc\/package\/operations\/-index",
+        "path": "doc\/package\/operations\/index.html"
+    },
+    {
+        "title": "menu",
+        "type": "html",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/menu",
+        "modifiedPath": "doc\/package\/operations\/-menu",
+        "path": "doc\/package\/operations\/menu.html"
+    },
+    {
+        "title": "menu",
+        "type": "js",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/menu.js",
+        "modifiedPath": "doc\/package\/operations\/menu.js",
+        "path": "doc\/package\/operations\/menu.js"
+    },
+    {
+        "title": "menu3",
+        "type": "js",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/menu3.js",
+        "modifiedPath": "doc\/package\/operations\/menu3.js",
+        "path": "doc\/package\/operations\/menu3.js"
+    },
+    {
+        "title": "menu___",
+        "type": "html",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/menu___",
+        "modifiedPath": "doc\/package\/operations\/-menu___",
+        "path": "doc\/package\/operations\/menu___.html"
+    },
+    {
+        "title": "menuarsi",
+        "type": "js",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/menuarsi.js",
+        "modifiedPath": "doc\/package\/operations\/menuarsi.js",
+        "path": "doc\/package\/operations\/menuarsi.js"
+    },
+    {
+        "title": "menufitur",
+        "type": "html",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/menufitur",
+        "modifiedPath": "doc\/package\/operations\/-menufitur",
+        "path": "doc\/package\/operations\/menufitur.html"
+    },
+    {
+        "title": "addTable",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/addTable.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/addTable.js",
+        "path": "doc\/package\/operations\/modules\/addTable.js"
+    },
+    {
+        "title": "addcolumns",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/addcolumns.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/addcolumns.js",
+        "path": "doc\/package\/operations\/modules\/addcolumns.js"
+    },
+    {
+        "title": "analytics",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/analytics.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/analytics.js",
+        "path": "doc\/package\/operations\/modules\/analytics.js"
+    },
+    {
+        "title": "backupManager",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/backupManager.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/backupManager.js",
+        "path": "doc\/package\/operations\/modules\/backupManager.js"
+    },
+    {
+        "title": "content",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/content.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/content.js",
+        "path": "doc\/package\/operations\/modules\/content.js"
+    },
+    {
+        "title": "database",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/database.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/database.js",
+        "path": "doc\/package\/operations\/modules\/database.js"
+    },
+    {
+        "title": "database________",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/database________.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/database________.js",
+        "path": "doc\/package\/operations\/modules\/database________.js"
+    },
+    {
+        "title": "exportManager",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/exportManager.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/exportManager.js",
+        "path": "doc\/package\/operations\/modules\/exportManager.js"
+    },
+    {
+        "title": "foreignKeyManager",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/foreignKeyManager.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/foreignKeyManager.js",
+        "path": "doc\/package\/operations\/modules\/foreignKeyManager.js"
+    },
+    {
+        "title": "index",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/index.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/index.js",
+        "path": "doc\/package\/operations\/modules\/index.js"
+    },
+    {
+        "title": "indexManager",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/indexManager.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/indexManager.js",
+        "path": "doc\/package\/operations\/modules\/indexManager.js"
+    },
+    {
+        "title": "inputrow",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/inputrow.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/inputrow.js",
+        "path": "doc\/package\/operations\/modules\/inputrow.js"
+    },
+    {
+        "title": "maintenance",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/maintenance.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/maintenance.js",
+        "path": "doc\/package\/operations\/modules\/maintenance.js"
+    },
+    {
+        "title": "modal",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/modal.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/modal.js",
+        "path": "doc\/package\/operations\/modules\/modal.js"
+    },
+    {
+        "title": "modal__",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/modal__.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/modal__.js",
+        "path": "doc\/package\/operations\/modules\/modal__.js"
+    },
+    {
+        "title": "modifycolumn",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/modifycolumn.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/modifycolumn.js",
+        "path": "doc\/package\/operations\/modules\/modifycolumn.js"
+    },
+    {
+        "title": "monitoring",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/monitoring.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/monitoring.js",
+        "path": "doc\/package\/operations\/modules\/monitoring.js"
+    },
+    {
+        "title": "monitoring2",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/monitoring2.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/monitoring2.js",
+        "path": "doc\/package\/operations\/modules\/monitoring2.js"
+    },
+    {
+        "title": "monitoring___",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/monitoring___.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/monitoring___.js",
+        "path": "doc\/package\/operations\/modules\/monitoring___.js"
+    },
+    {
+        "title": "operations",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/operations.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/operations.js",
+        "path": "doc\/package\/operations\/modules\/operations.js"
+    },
+    {
+        "title": "search",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/search.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/search.js",
+        "path": "doc\/package\/operations\/modules\/search.js"
+    },
+    {
+        "title": "table",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/table.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/table.js",
+        "path": "doc\/package\/operations\/modules\/table.js"
+    },
+    {
+        "title": "triggerManager",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/triggerManager.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/triggerManager.js",
+        "path": "doc\/package\/operations\/modules\/triggerManager.js"
+    },
+    {
+        "title": "ui",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/ui.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/ui.js",
+        "path": "doc\/package\/operations\/modules\/ui.js"
+    },
+    {
+        "title": "updaterow",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/updaterow.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/updaterow.js",
+        "path": "doc\/package\/operations\/modules\/updaterow.js"
+    },
+    {
+        "title": "viewManager",
+        "type": "js",
+        "index": "doc\/package\/operations\/modules\/index.html",
+        "originalPath": "doc\/package\/operations\/modules\/viewManager.js",
+        "modifiedPath": "doc\/package\/operations\/modules\/viewManager.js",
+        "path": "doc\/package\/operations\/modules\/viewManager.js"
+    },
+    {
+        "title": "style",
+        "type": "css",
+        "index": "doc\/package\/operations\/index.html",
+        "originalPath": "doc\/package\/operations\/style.css",
+        "modifiedPath": "doc\/package\/operations\/style.css",
+        "path": "doc\/package\/operations\/style.css"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/index",
+        "modifiedPath": "doc\/package\/operations___\/-index",
+        "path": "doc\/package\/operations___\/index.html"
+    },
+    {
+        "title": "menu",
+        "type": "html",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/menu",
+        "modifiedPath": "doc\/package\/operations___\/-menu",
+        "path": "doc\/package\/operations___\/menu.html"
+    },
+    {
+        "title": "menu",
+        "type": "js",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/menu.js",
+        "modifiedPath": "doc\/package\/operations___\/menu.js",
+        "path": "doc\/package\/operations___\/menu.js"
+    },
+    {
+        "title": "menu3",
+        "type": "js",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/menu3.js",
+        "modifiedPath": "doc\/package\/operations___\/menu3.js",
+        "path": "doc\/package\/operations___\/menu3.js"
+    },
+    {
+        "title": "menu___",
+        "type": "html",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/menu___",
+        "modifiedPath": "doc\/package\/operations___\/-menu___",
+        "path": "doc\/package\/operations___\/menu___.html"
+    },
+    {
+        "title": "menuarsi",
+        "type": "js",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/menuarsi.js",
+        "modifiedPath": "doc\/package\/operations___\/menuarsi.js",
+        "path": "doc\/package\/operations___\/menuarsi.js"
+    },
+    {
+        "title": "menufitur",
+        "type": "html",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/menufitur",
+        "modifiedPath": "doc\/package\/operations___\/-menufitur",
+        "path": "doc\/package\/operations___\/menufitur.html"
+    },
+    {
+        "title": "addTable",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/addTable.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/addTable.js",
+        "path": "doc\/package\/operations___\/modules\/addTable.js"
+    },
+    {
+        "title": "addcolumns",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/addcolumns.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/addcolumns.js",
+        "path": "doc\/package\/operations___\/modules\/addcolumns.js"
+    },
+    {
+        "title": "analytics",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/analytics.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/analytics.js",
+        "path": "doc\/package\/operations___\/modules\/analytics.js"
+    },
+    {
+        "title": "backupManager",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/backupManager.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/backupManager.js",
+        "path": "doc\/package\/operations___\/modules\/backupManager.js"
+    },
+    {
+        "title": "content",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/content.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/content.js",
+        "path": "doc\/package\/operations___\/modules\/content.js"
+    },
+    {
+        "title": "database",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/database.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/database.js",
+        "path": "doc\/package\/operations___\/modules\/database.js"
+    },
+    {
+        "title": "database________",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/database________.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/database________.js",
+        "path": "doc\/package\/operations___\/modules\/database________.js"
+    },
+    {
+        "title": "exportManager",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/exportManager.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/exportManager.js",
+        "path": "doc\/package\/operations___\/modules\/exportManager.js"
+    },
+    {
+        "title": "foreignKeyManager",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/foreignKeyManager.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/foreignKeyManager.js",
+        "path": "doc\/package\/operations___\/modules\/foreignKeyManager.js"
+    },
+    {
+        "title": "index",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/index.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/index.js",
+        "path": "doc\/package\/operations___\/modules\/index.js"
+    },
+    {
+        "title": "indexManager",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/indexManager.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/indexManager.js",
+        "path": "doc\/package\/operations___\/modules\/indexManager.js"
+    },
+    {
+        "title": "inputrow",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/inputrow.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/inputrow.js",
+        "path": "doc\/package\/operations___\/modules\/inputrow.js"
+    },
+    {
+        "title": "maintenance",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/maintenance.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/maintenance.js",
+        "path": "doc\/package\/operations___\/modules\/maintenance.js"
+    },
+    {
+        "title": "modal",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/modal.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/modal.js",
+        "path": "doc\/package\/operations___\/modules\/modal.js"
+    },
+    {
+        "title": "modifycolumn",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/modifycolumn.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/modifycolumn.js",
+        "path": "doc\/package\/operations___\/modules\/modifycolumn.js"
+    },
+    {
+        "title": "monitoring",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/monitoring.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/monitoring.js",
+        "path": "doc\/package\/operations___\/modules\/monitoring.js"
+    },
+    {
+        "title": "operations",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/operations.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/operations.js",
+        "path": "doc\/package\/operations___\/modules\/operations.js"
+    },
+    {
+        "title": "search",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/search.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/search.js",
+        "path": "doc\/package\/operations___\/modules\/search.js"
+    },
+    {
+        "title": "table",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/table.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/table.js",
+        "path": "doc\/package\/operations___\/modules\/table.js"
+    },
+    {
+        "title": "triggerManager",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/triggerManager.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/triggerManager.js",
+        "path": "doc\/package\/operations___\/modules\/triggerManager.js"
+    },
+    {
+        "title": "ui",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/ui.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/ui.js",
+        "path": "doc\/package\/operations___\/modules\/ui.js"
+    },
+    {
+        "title": "viewManager",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules\/viewManager.js",
+        "modifiedPath": "doc\/package\/operations___\/modules\/viewManager.js",
+        "path": "doc\/package\/operations___\/modules\/viewManager.js"
+    },
+    {
+        "title": "database",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules_01\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules_01\/database.js",
+        "modifiedPath": "doc\/package\/operations___\/modules_01\/database.js",
+        "path": "doc\/package\/operations___\/modules_01\/database.js"
+    },
+    {
+        "title": "search",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules_01\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules_01\/search.js",
+        "modifiedPath": "doc\/package\/operations___\/modules_01\/search.js",
+        "path": "doc\/package\/operations___\/modules_01\/search.js"
+    },
+    {
+        "title": "table",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules_01\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules_01\/table.js",
+        "modifiedPath": "doc\/package\/operations___\/modules_01\/table.js",
+        "path": "doc\/package\/operations___\/modules_01\/table.js"
+    },
+    {
+        "title": "tree",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules_01\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules_01\/tree.js",
+        "modifiedPath": "doc\/package\/operations___\/modules_01\/tree.js",
+        "path": "doc\/package\/operations___\/modules_01\/tree.js"
+    },
+    {
+        "title": "ui",
+        "type": "js",
+        "index": "doc\/package\/operations___\/modules_01\/index.html",
+        "originalPath": "doc\/package\/operations___\/modules_01\/ui.js",
+        "modifiedPath": "doc\/package\/operations___\/modules_01\/ui.js",
+        "path": "doc\/package\/operations___\/modules_01\/ui.js"
+    },
+    {
+        "title": "style",
+        "type": "css",
+        "index": "doc\/package\/operations___\/index.html",
+        "originalPath": "doc\/package\/operations___\/style.css",
+        "modifiedPath": "doc\/package\/operations___\/style.css",
+        "path": "doc\/package\/operations___\/style.css"
+    },
+    {
+        "title": "flatkey",
+        "type": "html",
+        "index": "doc\/package\/paket\/index.html",
+        "originalPath": "doc\/package\/paket\/flatkey",
+        "modifiedPath": "doc\/package\/paket\/-flatkey",
+        "path": "doc\/package\/paket\/flatkey.html"
+    },
+    {
+        "title": "queue",
+        "type": "html",
+        "index": "doc\/package\/paket\/index.html",
+        "originalPath": "doc\/package\/paket\/queue",
+        "modifiedPath": "doc\/package\/paket\/-queue",
+        "path": "doc\/package\/paket\/queue.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/package\/queue\/index.html",
+        "originalPath": "doc\/package\/queue\/index",
+        "modifiedPath": "doc\/package\/queue\/-index",
+        "path": "doc\/package\/queue\/index.html"
+    },
+    {
+        "title": "aktivasi",
+        "type": "html",
+        "index": "doc\/proyek\/index.html",
+        "originalPath": "doc\/proyek\/aktivasi",
+        "modifiedPath": "doc\/proyek\/-aktivasi",
+        "path": "doc\/proyek\/aktivasi.html"
+    },
+    {
+        "title": "aktivasi",
+        "type": "txt",
+        "index": "doc\/proyek\/index.html",
+        "originalPath": "doc\/proyek\/aktivasi.txt",
+        "modifiedPath": "doc\/proyek\/aktivasi.txt",
+        "path": "doc\/proyek\/aktivasi.txt"
+    },
+    {
+        "title": "cli",
+        "type": "html",
+        "index": "doc\/proyek\/index.html",
+        "originalPath": "doc\/proyek\/cli",
+        "modifiedPath": "doc\/proyek\/-cli",
+        "path": "doc\/proyek\/cli.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "doc\/proyek\/index.html",
+        "originalPath": "doc\/proyek\/index",
+        "modifiedPath": "doc\/proyek\/-index",
+        "path": "doc\/proyek\/index.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/index",
+        "modifiedPath": "exsampel\/-index",
+        "path": "exsampel\/index.html"
+    },
+    {
+        "title": "index__",
+        "type": "html",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/index__",
+        "modifiedPath": "exsampel\/-index__",
+        "path": "exsampel\/index__.html"
+    },
+    {
+        "title": "intro",
+        "type": "html",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/intro",
+        "modifiedPath": "exsampel\/-intro",
+        "path": "exsampel\/intro.html"
+    },
+    {
+        "title": "navigasi",
+        "type": "html",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/navigasi",
+        "modifiedPath": "exsampel\/-navigasi",
+        "path": "exsampel\/navigasi.html"
+    },
+    {
+        "title": "ngorei",
+        "type": "js",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/ngorei.js",
+        "modifiedPath": "exsampel\/ngorei.js",
+        "path": "exsampel\/ngorei.js"
+    },
+    {
+        "title": "Crypto",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/Crypto.js",
+        "modifiedPath": "exsampel\/oauth\/Crypto.js",
+        "path": "exsampel\/oauth\/Crypto.js"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/index",
+        "modifiedPath": "exsampel\/oauth\/-index",
+        "path": "exsampel\/oauth\/index.html"
+    },
+    {
+        "title": "index",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/index.js",
+        "modifiedPath": "exsampel\/oauth\/index.js",
+        "path": "exsampel\/oauth\/index.js"
+    },
+    {
+        "title": "signin",
+        "type": "html",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/signin",
+        "modifiedPath": "exsampel\/oauth\/-signin",
+        "path": "exsampel\/oauth\/signin.html"
+    },
+    {
+        "title": "signin",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/signin.js",
+        "modifiedPath": "exsampel\/oauth\/signin.js",
+        "path": "exsampel\/oauth\/signin.js"
+    },
+    {
+        "title": "signup",
+        "type": "html",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/signup",
+        "modifiedPath": "exsampel\/oauth\/-signup",
+        "path": "exsampel\/oauth\/signup.html"
+    },
+    {
+        "title": "signup",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/signup.js",
+        "modifiedPath": "exsampel\/oauth\/signup.js",
+        "path": "exsampel\/oauth\/signup.js"
+    },
+    {
+        "title": "token",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/token.js",
+        "modifiedPath": "exsampel\/oauth\/token.js",
+        "path": "exsampel\/oauth\/token.js"
+    },
+    {
+        "title": "token1",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/token1.js",
+        "modifiedPath": "exsampel\/oauth\/token1.js",
+        "path": "exsampel\/oauth\/token1.js"
+    },
+    {
+        "title": "validasi",
+        "type": "js",
+        "index": "exsampel\/oauth\/index.html",
+        "originalPath": "exsampel\/oauth\/validasi.js",
+        "modifiedPath": "exsampel\/oauth\/validasi.js",
+        "path": "exsampel\/oauth\/validasi.js"
+    },
+    {
+        "title": "console",
+        "type": "js",
+        "index": "exsampel\/terminal\/index.html",
+        "originalPath": "exsampel\/terminal\/console.js",
+        "modifiedPath": "exsampel\/terminal\/console.js",
+        "path": "exsampel\/terminal\/console.js"
+    },
+    {
+        "title": "consoleEntri",
+        "type": "js",
+        "index": "exsampel\/terminal\/index.html",
+        "originalPath": "exsampel\/terminal\/consoleEntri.js",
+        "modifiedPath": "exsampel\/terminal\/consoleEntri.js",
+        "path": "exsampel\/terminal\/consoleEntri.js"
+    },
+    {
+        "title": "data",
+        "type": "html",
+        "index": "exsampel\/terminal\/index.html",
+        "originalPath": "exsampel\/terminal\/data",
+        "modifiedPath": "exsampel\/terminal\/-data",
+        "path": "exsampel\/terminal\/data.html"
+    },
+    {
+        "title": "data",
+        "type": "js",
+        "index": "exsampel\/terminal\/index.html",
+        "originalPath": "exsampel\/terminal\/data.js",
+        "modifiedPath": "exsampel\/terminal\/data.js",
+        "path": "exsampel\/terminal\/data.js"
+    },
+    {
+        "title": "deksto",
+        "type": "html",
+        "index": "exsampel\/terminal\/index.html",
+        "originalPath": "exsampel\/terminal\/deksto",
+        "modifiedPath": "exsampel\/terminal\/-deksto",
+        "path": "exsampel\/terminal\/deksto.html"
+    },
+    {
+        "title": "network",
+        "type": "html",
+        "index": "exsampel\/terminal\/index.html",
+        "originalPath": "exsampel\/terminal\/network",
+        "modifiedPath": "exsampel\/terminal\/-network",
+        "path": "exsampel\/terminal\/network.html"
+    },
+    {
+        "title": "example",
+        "type": "html",
+        "index": "exsampel\/tremenu\/index.html",
+        "originalPath": "exsampel\/tremenu\/example",
+        "modifiedPath": "exsampel\/tremenu\/-example",
+        "path": "exsampel\/tremenu\/example.html"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "exsampel\/tremenu\/index.html",
+        "originalPath": "exsampel\/tremenu\/index",
+        "modifiedPath": "exsampel\/tremenu\/-index",
+        "path": "exsampel\/tremenu\/index.html"
+    },
+    {
+        "title": "jstree",
+        "type": "html",
+        "index": "exsampel\/tremenu\/index.html",
+        "originalPath": "exsampel\/tremenu\/jstree",
+        "modifiedPath": "exsampel\/tremenu\/-jstree",
+        "path": "exsampel\/tremenu\/jstree.html"
+    },
+    {
+        "title": "jstree",
+        "type": "js",
+        "index": "exsampel\/tremenu\/index.html",
+        "originalPath": "exsampel\/tremenu\/jstree.js",
+        "modifiedPath": "exsampel\/tremenu\/jstree.js",
+        "path": "exsampel\/tremenu\/jstree.js"
+    },
+    {
+        "title": "style",
+        "type": "css",
+        "index": "exsampel\/tremenu\/index.html",
+        "originalPath": "exsampel\/tremenu\/style.css",
+        "modifiedPath": "exsampel\/tremenu\/style.css",
+        "path": "exsampel\/tremenu\/style.css"
+    },
+    {
+        "title": "tre",
+        "type": "js",
+        "index": "exsampel\/tremenu\/index.html",
+        "originalPath": "exsampel\/tremenu\/tre.js",
+        "modifiedPath": "exsampel\/tremenu\/tre.js",
+        "path": "exsampel\/tremenu\/tre.js"
+    },
+    {
+        "title": "work",
+        "type": "js",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/work.js",
+        "modifiedPath": "exsampel\/work.js",
+        "path": "exsampel\/work.js"
+    },
+    {
+        "title": "workDev",
+        "type": "js",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/workDev.js",
+        "modifiedPath": "exsampel\/workDev.js",
+        "path": "exsampel\/workDev.js"
+    },
+    {
+        "title": "workDev1",
+        "type": "js",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/workDev1.js",
+        "modifiedPath": "exsampel\/workDev1.js",
+        "path": "exsampel\/workDev1.js"
+    },
+    {
+        "title": "work___",
+        "type": "js",
+        "index": "exsampel\/index.html",
+        "originalPath": "exsampel\/work___.js",
+        "modifiedPath": "exsampel\/work___.js",
+        "path": "exsampel\/work___.js"
+    },
+    {
+        "title": "index",
+        "type": "html",
+        "index": "user\/index.html",
+        "originalPath": "user\/index",
+        "modifiedPath": "user\/-index",
+        "path": "user\/index.html"
+    }
+]

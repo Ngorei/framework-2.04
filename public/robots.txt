@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+# Disallow admin paths
+Disallow: /admin/
+Disallow: /login/
+Disallow: /api/
+Disallow: /sdk/
+# Sitemap
+Sitemap: http://192.168.1.112/Server1/sitemap.xml
